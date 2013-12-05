@@ -1,0 +1,23 @@
+{
+  "name": "docker-simple-wrapper",
+  "version": "0.0.0",
+  "description": "Simple 50 line wrapper around http.request for docker.",
+  "main": "index.js",
+  "keywords": [
+    "docker",
+    "api",
+    "rest"
+  ],
+  "author": "Geert Pasteels <geert.pasteels@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Enome/docker-simple-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Enome/docker-simple-wrapper/issues"
+  }
+}
